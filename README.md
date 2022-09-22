@@ -1,6 +1,6 @@
 # python_module_compiler
 
-This module can let you compiler all .py to .pyc and copy all other files in your project_folder.
+This module can let you compile all .py files to .pyc files and copy all other files in your project_folder.
 
 1. After git this project. Create "input" and "output" folder in this folder.
 
